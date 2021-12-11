@@ -1,0 +1,2 @@
+kitti_2012_disp_occ_pseudo_gt.zip filter=lfs diff=lfs merge=lfs -text
+kitti_2015_disp_occ_0_pseudo_gt.zip filter=lfs diff=lfs merge=lfs -text
